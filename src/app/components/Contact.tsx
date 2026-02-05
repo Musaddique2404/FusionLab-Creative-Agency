@@ -19,9 +19,9 @@ export function Contact() {
     setIsSubmitting(true);
 
     // EmailJS Configuration - Replace these with your actual credentials
-    const serviceID = "YOUR_SERVICE_ID"; // Replace with your EmailJS service ID
-    const templateID = "YOUR_TEMPLATE_ID"; // Replace with your EmailJS template ID
-    const publicKey = "YOUR_PUBLIC_KEY"; // Replace with your EmailJS public key
+    const serviceID ="service_ngbo5t5"; // Replace with your EmailJS service ID
+    const templateID = "template_zdjw09b"; // Replace with your EmailJS template ID
+    const publicKey = "CP0cqHh4MwXLH9_2D"; // Replace with your EmailJS public key
 
     if (formRef.current) {
       emailjs
